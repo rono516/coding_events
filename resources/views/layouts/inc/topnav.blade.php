@@ -16,7 +16,7 @@
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
 
     <div class="container">
-        <a href="{{ url('/') }}" class="navbar-brand">Coding Contests<span style="color: blue">/Events</span></a>
+        <a href="{{ url('/') }}" class="navbar-brand">Coding Contests<span style="color: blue">&Events</span></a>
     </div>
 
 
