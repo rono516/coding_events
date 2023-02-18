@@ -3,7 +3,11 @@ The API consumed is Kontests API || See https://kontests.net/api
 This website will provide links and sites for online coding and events
 Click on the link provided, sign up and participate in the coding events  and contests
 
-The website has been hosted on [Vercel](https://coding-events.vercel.app/) . Provide feedback on what to improve.
+The website has been hosted on [Vercel](https://coding-events.vercel.app/) . 
+
+[Events-App] (https://coding-events.vercel.app/)
+
+Provide feedback on what to improve.
 
 This project is open source and you can follow the steps given below to host it in your local machine and improve it.
 Setting up a Laravel application you clone from GitHub
