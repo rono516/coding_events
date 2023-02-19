@@ -2,8 +2,8 @@
 
 
 <div class="py-3 mx-2">
-    <table class="table bg-white">
-        <thead class="bg-dark text-light">
+    <table class="table table-striped table-dark">
+        <thead>
             <th>Site</th>
             <th>Name</th>
             <th>Link</th>

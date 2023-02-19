@@ -1,7 +1,7 @@
 @include('layouts.inc.topnav')
 
 <div class="py-3 mx-2">
-    <table class="table">
+    <table class="table table-striped table-dark">
         <thead>
             <tr>
                 <th scope="col">Contest Name</th>
